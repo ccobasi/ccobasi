@@ -6,7 +6,7 @@
 
 - 📫 How to reach me: 
     Twitter: [@twitterhandle](https://twitter.com/@obasichux)
-    LinkedIn: [LinkedIn](https://linkedin.com/chukwuma-obasi-532b84188)
+    LinkedIn: [LinkedIn](https://linkedin.com/chukwuma-obasi)
     
     
 
