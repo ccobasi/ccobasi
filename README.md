@@ -33,6 +33,8 @@
 <img src="https://img.icons8.com/dusk/48/000000/webpack.png"/>
 <img src="https://img.icons8.com/nolan/48/react-native.png"/>
 <img src="https://img.icons8.com/color/48/000000/redux.png"/>
+<img src="py.png"/>
+<img src="dj1.png"/>
 
 
 <br/>
