@@ -1,43 +1,18 @@
-### Hey, I'm Chukwuma Obasi! 👋
-
-**Current Status**
-___________________________________________________________________________________________________________________________________________________________________________________
-
-- In JavaScript
-
-**I'm a Full-Stack-Developer**
-___________________________________________________________________________________________________________________________________________________________________________________
-
-- computer I’m currently working on finishing the Microverse course.
--  I’m currently learning full-stack web developer rofl.
--  I’m looking to collaborate with other people to improve my knowledge.
--  2021 Goals: commit more to my Github Profile.
--  Fun fact: I love to travel and see different cultures.
-
-**Connect with me:**
-___________________________________________________________________________________________________________________________________________________________________________________
-
-
-### Hi there, I'm Zerradi 👋
+### Hi there, I'm Chukwuma 👋
 
 ## Current Status
  
-- In React & Redux.
+- JavaScript.
 
-## I'm a Full-stack-dev
-- 💻 I’m currently working on finishing the Micrverse course.
+## I'm a Full-stack-developer
+- 💻 I’m currently working on finishing the Microverse course.
 - 🌱 I’m currently learning full-stack web developer 🤣.
 - 👯 I’m looking to collaborate with other people to improve my knowledge.
 - 🥅 2021 Goals: commit more to my Github Profile.
 - ⚡ Fun fact: I love to travel and see different  cultures.
 
-## I'm also a FULL Stack web developer graduated 
-
-- <img alt="udacity"  src="assets/udacity1.ico"/> <span style="marging-bottom: 15px;">One milion arab coder initiative from the UEA<span>.
-
 ### Connect with me:
 
-<div><img src="https://img.icons8.com/fluent/48/000000/domain.png" aligne="left"/>
 <img src="https://img.icons8.com/fluent/48/000000/twitter.png" aligne="left"  style="margin-left:10px"/>
 <img src="https://img.icons8.com/nolan/48/linkedin.png" aligne="left"  style="margin-left:10px"/>
 <img src="https://img.icons8.com/nolan/48/angelist.png" aligne="left"  style="margin-left:10px"/></div>
@@ -66,14 +41,14 @@ ________________________________________________________________________________
 
 ## Readme Status. 
 
-<img  alt="dasileker Github Stats" src="https://github-readme-stats.vercel.app/api?username=dasileker&count_private=true"/>
+<img  alt="ccobasi Github Stats" src="https://github-readme-stats.vercel.app/api?username=ccobasi&count_private=true"/>
 
 <br />
 
 
 ## Contact Me Via
 
- - [Twitter](https://twitter.com/dasileker).
- - [LinkedIn](https://www.linkedin.com/in/amine-zerradi/).
- - [Angellist](https://angel.co/u/zerradi).
+ - [Twitter](https://twitter.com/obasichux).
+ - [LinkedIn](https://www.linkedin.com/in/chukwuma-obasi/).
+ - [Angellist](https://angel.co/u/chukwuma-obasi).
 
