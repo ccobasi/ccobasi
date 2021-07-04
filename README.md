@@ -1,14 +1,21 @@
 ### Hey, I'm Chukwuma Obasi! 👋
 
-- 🔭 I'm a back-end developer (Python/Django framework) with data visualization skils. i'm based in Abia, Nigeria.
+**Current Status**
+___________________________________________________________________________________________________________________________________________________________________________________
 
-- 🌱 I’m currently currently transiting to a full stack developer @Microverse where I'm improving my HTML/CSS, Ruby, Rails, React/Redux and Javascript skills
+- In JavaScript
 
-- 📫 How to reach me: 
-    Twitter: [@twitterhandle](https://twitter.com/@obasichux)
-    LinkedIn: [LinkedIn](https://linkedin.com/chukwuma-obasi)
-    
-    
+**I'm a Full-Stack-Developer**
+___________________________________________________________________________________________________________________________________________________________________________________
 
-- ⚡ Fun fact:
-    When I'm not developing and building things reading, travelling or learning new thing.
+- computer I’m currently working on finishing the Microverse course.
+-  I’m currently learning full-stack web developer rofl.
+-  I’m looking to collaborate with other people to improve my knowledge.
+-  2021 Goals: commit more to my Github Profile.
+-  Fun fact: I love to travel and see different cultures.
+
+**Connect with me:**
+___________________________________________________________________________________________________________________________________________________________________________________
+
+
+
