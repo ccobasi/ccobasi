@@ -2,7 +2,7 @@
 
 ## Current Status
  
-- JavaScript.
+- React.
 
 ## I'm a Full-stack-developer
 - 💻 I’m currently working on finishing the Microverse course.
